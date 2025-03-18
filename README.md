@@ -37,14 +37,22 @@ Game Dynamics:
 
 Future Enhancements
 Planned Features:
+
 •	Customizable Minimap: Users will be able to modify the minimap's appearance, scale, and display options, offering a more personalized and tailored experience.
+
 •	More Game World Interactions: Future updates may include more interactive elements in the game world, such as puzzles, additional items, or environmental changes that directly affect gameplay.
+
 •	Enhanced Player Feedback: Plans for improved player feedback, including better visual cues and audio signals, will be incorporated to make interactions more intuitive and engaging.
+
 Known Limitations:
 •	Limited Map Size: Currently, the game world and minimap are restricted to a fixed size, which may limit gameplay in larger, open-world settings. Expanding this functionality is an area of future focus.
+
 •	Player Movement Constraints: The current version has limited movement dynamics for players, which could be more fluid and dynamic. Enhancing character movement and introducing more realistic physics are potential improvements.
+
 •	Minimap Accuracy: While the minimap is functional, it currently lacks detailed features like terrain variations or dynamic obstacles, which could make navigation easier and more informative for players.
+
 •	Performance on Low-End Devices: The system performs well on most devices, but on lower- end hardware, there may be occasional lag or performance drops. Optimizations for resource-intensive elements will be pursued in future updates.
+
 •	Limited Environmental Changes: Environmental features, such as weather effects or day/night cycles, are not yet incorporated into the game, which could add a layer of complexity and
 immersion.
 
@@ -57,9 +65,7 @@ minimap's real-time updates ensure that the player's movements and in-game chang
 From a technical perspective, the minimap improves performance by rendering only a simplified version of the game world, which is computationally cheaper and more memory-efficient. This ensures that the primary game world is not overloaded with additional graphical overhead. The
 minimap's ability to display key elements, such as objectives or enemy locations, also provides useful guidance while maintaining a non-intrusive presence on the screen. By offering customizable
 features, it can be tailored to highlight the most critical elements relevant to the gameplay, ensuring it remains a valuable tool for players.
-Overall, the minimap offers a balance of functionality and simplicity, enhancing the game’s
-accessibility and enjoyment without compromising on performance. Its inclusion reflects modern
-game design practices, where providing intuitive navigation tools can make a significant difference in the player experience, especially in expansive and dynamic game worlds. As players navigate through the game, the minimap serves as both a guiding tool and a dynamic representation of their journey, ensuring a smoother and more engaging experience.
+
 
 
 References:
