@@ -1,5 +1,5 @@
 # Runner-Chicken-Game 
-(Please change to master branch to see the details of the code.)
+
 
 Minimap game using Viewport
 
